@@ -1,1 +1,1 @@
-# odin-recipes
+The goal of this Odin Project is to go over some of the learnings I've had so far in the course.
